@@ -1,2 +1,3 @@
-# xorenc
-Encrypt your files with this basic tool
+# this has no headline.
+
+This is the most basic, low level xor-encryptor you could ever imagine.
