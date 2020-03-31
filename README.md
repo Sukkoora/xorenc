@@ -1,4 +1,4 @@
-# this has no headline.
+# Basic encryption tool
 
 This is the most basic, low level xor-encryptor you could ever imagine.
 
